@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/multi-page-form/static/css/main.06b17cea.css",
+    "main.js": "/multi-page-form/static/js/main.ecc71bdf.js",
+    "index.html": "/multi-page-form/index.html",
+    "main.06b17cea.css.map": "/multi-page-form/static/css/main.06b17cea.css.map",
+    "main.ecc71bdf.js.map": "/multi-page-form/static/js/main.ecc71bdf.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.06b17cea.css",
+    "static/js/main.ecc71bdf.js"
+  ]
+}
